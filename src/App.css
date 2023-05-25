@@ -1,0 +1,8 @@
+.row-box{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.board-box{
+  margin: 20px;
+}
